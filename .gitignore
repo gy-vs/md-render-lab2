@@ -1,0 +1,13 @@
+benchmark/extra/
+node_modules/
+coverage/
+demo/
+apidoc/
+dist/
+*.log
+
+# local secrets
+.env
+.env.*
+*.pem
+*.key
